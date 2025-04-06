@@ -25,7 +25,7 @@ Além disso, o projeto possui um script adicional para realizar a limpeza dos da
 
 ### 1. Clonar o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Am4r00/[https://github.com/Am4r00/Web-Scraping---Kabum-Ofertas-.git]
 ```
 2. Instalar as dependências:
 ```bash
